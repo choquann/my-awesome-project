@@ -1,4 +1,12 @@
+body {
+    background: fff9f9;
+}
 h1 {
     text-align: center;
     color: red;
+}
+img {
+    width: 90%;
+    margin: o auto;
+    display: block;
 }
